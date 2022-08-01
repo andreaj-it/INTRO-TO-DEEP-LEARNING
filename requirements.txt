@@ -14,3 +14,5 @@ sympy>=1.10.1
 
 # Machine learning ----------------------------
 sklearn
+
+!pip install pandas numpy seaborn scipy tensorflow matplotlib sklearn statsmodels
